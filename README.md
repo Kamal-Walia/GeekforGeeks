@@ -8,4 +8,5 @@ for n=3 the pattern will be
 3 3 3 2 2 2 1 1 1
 3 3 2 2 1 1
 3 2 1
+
 Ques 2(Alternatearray.c):Your task is to write the print(int ar[ ], int n) funciton which prints the alternate elements of an array.
